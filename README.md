@@ -1,4 +1,4 @@
-# web_chat
+# Web Chat
 
 A new Flutter project.
 
